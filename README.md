@@ -55,7 +55,7 @@ Rush Hour is played on a **6×6 grid** filled with cars. Each car is 2 or 3 cell
 
 ### Installation & Run
 ```bash
-git clone https://github.com/<your-username>/rush-hour-solver.git
+git clone https://github.com/luanalegi/rush-hour-solver.git
 cd rush-hour-solver
 python3 rush_hour.py
 ```
